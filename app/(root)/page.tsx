@@ -12,7 +12,8 @@ import HorizontalSrollCarousel from "@/components/share/HorizontalScrollCarousel
 import { StaggerTestimonials } from "@/components/share/Testimonial";
 import ColCardFeature from "@/components/share/CollapsCardFeature";
 import { VanishText } from "@/components/share/VanishText";
-import Space from "@/public/assets/images/space.png";
+import Space from "@/public/assets/images/
+";
 import ColorChangeCards from "@/components/share/ColorChangeCard";
 import FeatureAnimation from "@/components/share/FeatureAnimated";
 import LottiAnimation from "@/components/share/LottiAnimation";
